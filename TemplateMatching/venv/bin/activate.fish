@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/marcuslai/Desktop/Codes/Python/objectdetect/gecko-image-processing/TemplateMatching/venv"
+set -gx VIRTUAL_ENV "/Users/marcuslai/Desktop/Codes/Python/gekko/Wax-Print-Image-Processor/TemplateMatching/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
